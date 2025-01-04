@@ -9,7 +9,11 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <ShopContextProvider>
 
+<<<<<<< HEAD
     <App />
+=======
+      <App />
+>>>>>>> 9cd6acad1ab1ec3e6da6809de4e4ec1f28e93d45
   </ShopContextProvider>
   // <React.StrictMode>
   // </React.StrictMode>
